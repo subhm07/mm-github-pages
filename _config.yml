@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Kumar Shubham"
-  avatar : "images/shubh.png"
+  avatar : "test/images/shubh.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Linkedin"
